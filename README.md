@@ -149,5 +149,8 @@ una vez realizado ese cambio crearemos la base de datos, el usuario y se le dara
 
 
 Para ña comprobacion iremos a nuetro buscador de incognito y pondremos localhost:9000 en mi caso y devera mostrarse una pagina como la siguiente.
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/330bffc6-08ca-470c-ad80-0b15bbd78e72)
+
+y con esto ya estaria worpress instalado y solo faltaria continuar con su instalacion desde la pagina wed.
 
