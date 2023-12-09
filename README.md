@@ -123,11 +123,14 @@ sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled.
 
 # GGBBserver
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/b18082ee-c70d-42c7-9d20-54057eb7dac3)
+este sera el aprovisionamiento que se le dara al servidor de datos
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/483e447f-dfcd-496b-b4ac-61d0fcf3f851)
 
+una vez arraquemos la maquina iremos al diretorio **/etc/mysql** editaremos el fichero 50-server cambianto en la linea bind-addres la direccion ip que esta por defecto por la de nuestro servidor de datos
+
+una vez realizado ese cambio crearemos la base de datos, el usuario y se le daran los permisos correspondientes para el posterior acceso.
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/021cb5cd-7a1d-4ffd-9c6c-1552bd353881)
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/08e0da62-08e9-451f-9bde-ad3b0aa6f8ac)
+
