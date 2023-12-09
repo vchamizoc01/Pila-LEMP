@@ -1,5 +1,15 @@
 # Pila-LEMP
 
+# Indice
+
+1. [Indice.](#Indice)
+2. [Introducción.](#introducción)
+3. [Creacion de servidores.](CREACION_DE_SERVIDORES) 
+    * [Balanceador.](#Balanceador)
+    * [Servidor NFS.](#NFSserver)
+    * [Servidores web.](#Serverweb1y2)
+    * [Servidor BBDD.](#GGBBservers)
+
 
 
 # Introduccion
@@ -13,7 +23,10 @@ Capa 3: Datos. Base de datos MariaDB
 
 Las capas 2 y 3 no estarán expuestas a red pública. Los servidores web utilizarán carpeta compartida por NFS desde el serverNFS y además utilizarán el motor PHP-FPM instalado es una misma máquina.
 
-#Balanceador
+# CREACION DE SERVIDORES.
+
+# Balanceador
+
 Para la configuracion del balanceador usaremos un aprovisionamiento que permitira ahorrar tiempo y trabajo, con el cual instalaremos nginx, lo iniciaremos y ademas eliminaremos un archivo que no usaremos.
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/21e4b353-ee85-45dc-b099-d725e3e08f36)
