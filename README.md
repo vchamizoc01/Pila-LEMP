@@ -8,7 +8,7 @@
     * [Balanceador.](#Balanceador)
     * [Servidor NFS.](#NFSserver)
     * [Servidores web.](#Serverweb1y2)
-    * [Servidor BBDD.](#GGBBservers)
+    * [Servidor BBDD.](#GGBBserver)
 
 
 
