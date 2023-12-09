@@ -85,6 +85,10 @@ seguidamente en la carpeta en que descargamos wordpress editaremos el fichero wp
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/5714b586-9492-4882-9906-aecd8884717c)
 
+# Serverweb1y2
+
+Para los server web utilizaremos el siguiente aprovisionamiento
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/38a5c8ce-9bcb-4e31-a03d-71ac8ffe51a5)
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/6ab6c670-11e2-4b78-9f62-2f4c1aa144d6)
@@ -101,7 +105,7 @@ seguidamente en la carpeta en que descargamos wordpress editaremos el fichero wp
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/43a5dbe6-7e7e-4c27-9873-5319e4588070)
 
-
+# GGBBserver
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/b18082ee-c70d-42c7-9d20-54057eb7dac3)
 
