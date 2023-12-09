@@ -91,11 +91,20 @@ Para los server web utilizaremos el siguiente aprovisionamiento
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/38a5c8ce-9bcb-4e31-a03d-71ac8ffe51a5)
 
+para montar el el directorio anterior mente realizado en el NFS usaremos el comando:
+```
+sudo mount X.X.X.X:/var/nfs/compartida /var/nfs/compartida
+```
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/6ab6c670-11e2-4b78-9f62-2f4c1aa144d6)
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/09d3842d-643b-4fac-a828-79db78b1bebe)
 
+tras realizar el paso anterior iremos al directorio **etc/enginx/sites-available** y crearemos una copia del archivo default
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/53cd97d1-90c5-4fa5-9483-39da614b8e94)
+
+la cual ahora se editara modificando las siguientes lineas.
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/0086b1c5-b3aa-443b-8df7-89a24ad4233e)
 
@@ -103,7 +112,14 @@ Para los server web utilizaremos el siguiente aprovisionamiento
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/5cc4b2cc-bd50-4829-8974-e4f8cf54b7dc)
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/43a5dbe6-7e7e-4c27-9873-5319e4588070)
+una vez se edite el archivo crearemos un enlace a otro directorio con el comando:
+```
+sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled.
+```
+
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/9819f352-0d93-4374-9a24-58b97f8640b4)
+
+
 
 # GGBBserver
 
