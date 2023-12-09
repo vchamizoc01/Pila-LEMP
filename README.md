@@ -51,7 +51,12 @@
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/43a5dbe6-7e7e-4c27-9873-5319e4588070)
 
+
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/b18082ee-c70d-42c7-9d20-54057eb7dac3)
+
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/483e447f-dfcd-496b-b4ac-61d0fcf3f851)
+
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/021cb5cd-7a1d-4ffd-9c6c-1552bd353881)
 
