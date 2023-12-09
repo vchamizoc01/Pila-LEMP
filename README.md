@@ -147,3 +147,7 @@ una vez realizado ese cambio crearemos la base de datos, el usuario y se le dara
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/021cb5cd-7a1d-4ffd-9c6c-1552bd353881)
 
 
+
+Para ña comprobacion iremos a nuetro buscador de incognito y pondremos localhost:9000 en mi caso y devera mostrarse una pagina como la siguiente.
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/330bffc6-08ca-470c-ad80-0b15bbd78e72)
+
