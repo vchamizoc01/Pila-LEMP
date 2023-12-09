@@ -7,6 +7,8 @@
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/1cf0e0ef-7b1a-4db5-8e09-f11e8b61a6f8)
 
+
+
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/1e694aba-bfbc-45a0-a136-35a582db403e)
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/a13bd393-e6ac-4570-9231-8982eed30f9a)
@@ -15,13 +17,17 @@
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/ca810b77-a0de-4bdd-acc7-160a9d2d8ffe)
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/e12ba571-367c-4115-adeb-c4ecdda46dcc)
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/661465d3-7243-477f-915b-ef4ce438b058)
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/899e103b-ad73-4cbe-bc55-44de82686296)
+
+
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/cae03f31-db06-42b4-8429-d8c9bcdf25fb)
 
-![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/1e2e8331-ae31-49ef-844c-4b8315d02840)
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/899e103b-ad73-4cbe-bc55-44de82686296)
+
+![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/3acb4b39-d3c0-4ee3-beca-c2c1e95a93c8)
+
 
 ![image](https://github.com/vchamizoc01/Pila-LEMP/assets/73099273/1f49b9ca-16f1-4b7f-a9ba-30726aba92a0)
 
